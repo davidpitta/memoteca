@@ -18,14 +18,14 @@
       "conteudo": "Já tentou reiniciar o roteador?",
       "autoria": "Pessoa da operadora",
       "modelo": "modelo3",
-      "favorito": true,
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Da vida reclama, mas sem ela não vive!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 6
     },
     {
@@ -40,14 +40,14 @@
       "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
       "autoria": "Chaves",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 13,
       "conteudo": "Melhor professor, o fracasso é!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Você não é todo mundo!",
@@ -68,7 +68,7 @@
       "conteudo": "Em casa a gente conversa!",
       "autoria": "Mãe",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 17,
